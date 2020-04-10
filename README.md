@@ -5,6 +5,10 @@ switching windows by typing.
 
 ![An animation of how the extension works](running.gif)
 
+### This Fork
+
+This fork adds support for Gnome settings an other dbus based control panel entries, by [goodwillcoding](https://github.com/goodwillcoding/), rebased onto the upstream repo.
+
 ### Installation
 
 Download from https://extensions.gnome.org/extension/973/switcher/ or
